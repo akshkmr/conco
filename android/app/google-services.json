@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744088714253",
+    "project_id": "nubor-d7497",
+    "storage_bucket": "nubor-d7497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744088714253:android:cc915bf00f6ea458dba944",
+        "android_client_info": {
+          "package_name": "com.hyperdot.conco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744088714253-g3of5h53rl0urs813tp31vrr16h6um7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjp2JgKr2mrBF0wseNBl7SF_daBIWge88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744088714253-g3of5h53rl0urs813tp31vrr16h6um7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
